@@ -1,0 +1,9 @@
+Here are four examples of resources that could be converted in a crafting system:
+
+1: Wood → Planks (for building or crafting tools)
+
+2: Ore → Metal Bars (for weapons or armor)
+
+3: Leather → Armor Pieces (for protective gear)
+
+4: Clay → Bricks (for constructing buildings or walls)

@@ -1,0 +1,5 @@
+Real-life system: Traffic
+
+When traffic becomes congested, drivers slow down, which causes even more congestion behind them (a reinforcing feedback loop). In response, some drivers choose
+alternative routes or travel atdifferent times, which can reduce congestion on the main road (a balancing feedback loop). Traffic lights adjust their timing based 
+on car flow, helping regulate movement and prevent jams from getting worse.

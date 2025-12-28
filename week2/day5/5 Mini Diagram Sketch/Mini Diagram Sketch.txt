@@ -1,0 +1,4 @@
+Reputation system (RPG or open-world game):
+The source of reputation points comes from completing quests, helping NPCs, or making choices that favor a faction. The stock is the player’s current reputation
+level with that faction, often shown numerically or with a rating. The sink is negative actions, such as attacking allies, breaking rules, or failing missions, 
+which reduce reputation.

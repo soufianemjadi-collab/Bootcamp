@@ -1,0 +1,5 @@
+Loop Example: XP and Leveling in an RPG
+
+When a player earns experience points (XP) by defeating enemies or completing quests, they gain levels, which makes their character stronger. 
+This increased strength allows them to defeat tougher enemies more easily, earning even more XP. This is a reinforcing loop, because each cycle
+amplifies the player’s progress and power over time.

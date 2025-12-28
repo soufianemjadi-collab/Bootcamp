@@ -1,0 +1,5 @@
+Example of Emergence: Minecraft
+
+Players sometimes use lava and water to create “infinite obsidian generators” or trap enemies in complex contraptions. This behavior is surprising because the 
+game never explicitly tells players to combine fluids this way. The emergent behavior arises from the interaction of multiple systems: physics (liquid flow), 
+crafting (obsidian blocks), and AI (enemy movement), which together allow creative solutions or exploits that the developers didn’t directly design.

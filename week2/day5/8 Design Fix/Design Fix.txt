@@ -1,0 +1,4 @@
+Idea for a Balancing Loop:
+
+Introduce scaling enemy difficulty: as the player’s level or power increases, enemies become stronger, smarter, or more numerous. This reduces the player’s rate of easy progression,
+slowing down power growth and keeping the game challenging, creating a balancing loop that prevents players from becoming overpowered too quickly.

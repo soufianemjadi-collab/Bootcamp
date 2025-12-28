@@ -1,0 +1,7 @@
+Game Example: The Legend of Zelda: Breath of the Wild
+
+Systems: Combat and Economy
+
+When players defeat enemies (combat system), they often collect materials, weapons, or rupees (economy system). The items earned can be sold or used to upgrade gear, 
+which strengthens the player, making future combat easier. Conversely, the economy influences combat because having better weapons and resources allows players to tackle 
+stronger enemies, creating a mutual influence between the two systems.

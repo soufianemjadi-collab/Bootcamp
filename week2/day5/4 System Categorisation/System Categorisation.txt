@@ -1,0 +1,10 @@
+Here are 3 systems from different games, each classified clearly:
+
+1: Scoring System – Tetris → Simple
+Points increase when lines are cleared. The rules are few and outcomes are easy to predict.
+
+2: Skill Tree System – Path of Exile → Complicated
+There are many nodes, paths, and builds, but each node has a clear, fixed effect. The system is large but still deterministic.
+
+3: Economy & Player Interaction – EVE Online → Complex
+The in-game economy is driven by real players trading, fighting, and forming alliances. Prices, wars, and markets change unpredictably based on player behavior.

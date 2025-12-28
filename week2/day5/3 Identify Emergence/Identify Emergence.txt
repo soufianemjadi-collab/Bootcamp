@@ -1,0 +1,4 @@
+One unexpected behavior I’ve seen is players stacking objects to climb over walls that were meant to block progress. 
+This happened because the game’s physics system allowed objects to keep their collision and weight realistically, and
+the designers didn’t limit how objects could be stacked. Players creatively used these systems in a way the developers
+didn’t originally intend.
